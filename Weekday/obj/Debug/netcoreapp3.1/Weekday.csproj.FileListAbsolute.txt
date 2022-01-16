@@ -1,0 +1,13 @@
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\bin\Debug\netcoreapp3.1\Weekday.exe
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\bin\Debug\netcoreapp3.1\Weekday.deps.json
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\bin\Debug\netcoreapp3.1\Weekday.runtimeconfig.json
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\bin\Debug\netcoreapp3.1\Weekday.runtimeconfig.dev.json
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\bin\Debug\netcoreapp3.1\Weekday.dll
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\bin\Debug\netcoreapp3.1\Weekday.pdb
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\obj\Debug\netcoreapp3.1\Weekday.csproj.AssemblyReference.cache
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\obj\Debug\netcoreapp3.1\Weekday.AssemblyInfoInputs.cache
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\obj\Debug\netcoreapp3.1\Weekday.AssemblyInfo.cs
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\obj\Debug\netcoreapp3.1\Weekday.csproj.CoreCompileInputs.cache
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\obj\Debug\netcoreapp3.1\Weekday.dll
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\obj\Debug\netcoreapp3.1\Weekday.pdb
+C:\Users\320105541\Documents\devloper\weekday\Weekday\Weekday\obj\Debug\netcoreapp3.1\Weekday.genruntimeconfig.cache
